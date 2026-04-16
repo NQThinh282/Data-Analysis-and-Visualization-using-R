@@ -1,4 +1,4 @@
-# Data Analysis and Visualization using R (Group Project)
+# Data Analysis and Visualization using R 
 
 ## Overview
 This project was developed as part of a group assignment. 
